@@ -1,5 +1,5 @@
 # angular2 using webpack
-Step by Step development of an Angular2 project using Webpack and Webpack-dev-server
+Step by Step development of an Angular2 project using Webpack and Webpack-dev-server with angular2 2.0.0-rc.1
 
 #Prerequisites
 Nodejs
